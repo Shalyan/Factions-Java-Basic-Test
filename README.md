@@ -1,4 +1,4 @@
-**Factions Java Basic Test**
+# **Factions Java Basic Test**
 
 Un codigo bastante simple y anticuado
 aunque pude servir para ayudarte si estas empezando en este mundo de Java y quieres hacer un plugin de factions
